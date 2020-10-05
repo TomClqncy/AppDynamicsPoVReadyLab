@@ -1,8 +1,8 @@
-# AppDynamics PoV-Ready Lab
-The Lab purpose is to ensure that the Partner SE has the right Skills and Capabilities to Prepare AppDynamics Environment and Install AppDynamics Solution to be ready to engage in a real Customer PoV. 
+# AppDynamics On-Premise PoV-Ready Lab
+The Lab purpose is to ensure that the Partner SE has the right skills and capabilities to prepare an AppDynamics environment and install AppDynamics solution to be ready to engage in a real customer PoV. 
 
 ## Step 1:  Prepare Internal AppDynamics Platform using NFR license
-Follow This Guide to Install an On-premise AppDynamics Platform in your Environment using your Partner NFR license:
+Follow this guide to install an On-premise AppDynamics platform in your environment using your Partner NFR license:
 [Platform Installation Guide](https://github.com/sherifadel90/AppDynamicsPlatformInstallation).
 
 <img src="https://github.com/sherifadel90/AppDynamicsPlatformInstallation/blob/master/assets/images/00-onpremise-diagram.jpg" width="350">
